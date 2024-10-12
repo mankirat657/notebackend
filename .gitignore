@@ -1,0 +1,13 @@
+# Backend .gitignore
+
+# Ignore node_modules
+node_modules
+
+# Ignore logs
+*.log
+
+# Ignore environment variables
+.env
+
+# Ignore other generated files
+.DS_Store
